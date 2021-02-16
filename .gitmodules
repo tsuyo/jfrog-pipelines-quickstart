@@ -1,0 +1,3 @@
+[submodule "jfrog-pipelines-quickstart--hello-world"]
+	path = jfrog-pipelines-quickstart--hello-world
+	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--hello-world
