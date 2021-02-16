@@ -1,3 +1,6 @@
 [submodule "jfrog-pipelines-quickstart--hello-world"]
 	path = jfrog-pipelines-quickstart--hello-world
 	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--hello-world
+[submodule "jfrog-pipelines-quickstart--docker-build-and-push"]
+	path = jfrog-pipelines-quickstart--docker-build-and-push
+	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--docker-build-and-push
