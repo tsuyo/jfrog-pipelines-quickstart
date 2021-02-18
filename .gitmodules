@@ -10,3 +10,6 @@
 [submodule "jfrog-pipelines-quickstart--npm-build"]
 	path = jfrog-pipelines-quickstart--npm-build
 	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--npm-build
+[submodule "jfrog-pipelines-quickstart--maven-build"]
+	path = jfrog-pipelines-quickstart--maven-build
+	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--maven-build
