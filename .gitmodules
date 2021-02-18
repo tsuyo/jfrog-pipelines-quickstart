@@ -4,3 +4,6 @@
 [submodule "jfrog-pipelines-quickstart--docker-build-and-push"]
 	path = jfrog-pipelines-quickstart--docker-build-and-push
 	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--docker-build-and-push
+[submodule "jfrog-pipelines-quickstart--go-build"]
+	path = jfrog-pipelines-quickstart--go-build
+	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--go-build
