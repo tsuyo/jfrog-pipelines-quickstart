@@ -7,3 +7,6 @@
 [submodule "jfrog-pipelines-quickstart--go-build"]
 	path = jfrog-pipelines-quickstart--go-build
 	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--go-build
+[submodule "jfrog-pipelines-quickstart--npm-build"]
+	path = jfrog-pipelines-quickstart--npm-build
+	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--npm-build
