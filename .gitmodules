@@ -13,3 +13,6 @@
 [submodule "jfrog-pipelines-quickstart--maven-build"]
 	path = jfrog-pipelines-quickstart--maven-build
 	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--maven-build
+[submodule "jfrog-pipelines-quickstart--release-to-edge-node"]
+	path = jfrog-pipelines-quickstart--release-to-edge-node
+	url = https://github.com/tsuyo/jfrog-pipelines-quickstart--release-to-edge-node
